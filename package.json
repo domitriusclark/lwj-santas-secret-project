@@ -10,8 +10,21 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.16.7",
     "@astrojs/check": "^0.9.4",
+    "@astrojs/react": "^3.6.2",
+    "@astrojs/tailwind": "^5.1.2",
+    "@sanity/astro": "^3.1.6",
+    "@sanity/client": "^6.22.2",
+    "@sanity/visual-editing": "^2.3.0",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "astro": "^4.16.7",
+    "lucide-react": "^0.453.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-swipeable": "^7.0.1",
+    "sanity": "^3.62.0",
+    "tailwindcss": "^3.4.14",
     "typescript": "^5.6.3"
   }
 }
